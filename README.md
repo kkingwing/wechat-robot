@@ -116,7 +116,7 @@ pip3 install azure-cognitiveservices-speech
 配置文件的模板在根目录的`config-template.json`中，需复制该模板创建最终生效的 `config.json` 文件：
 
 ```bash
-  cp config-template.json config.json
+  cp config-template.json config（文心一言，弃用）.json
 ```
 
 然后在`config.json`中填入配置，以下是对默认配置的说明，可根据需要进行自定义修改（请去掉注释）：
